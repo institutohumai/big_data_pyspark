@@ -11,7 +11,7 @@ Este curso proporciona una introducción completa a Big Data usando PySpark, la 
 - Operaciones en memoria caché (Persistencia, variables broadcast).
 - Introducción a las Spark UI en Google Colab.
 - Ejemplo práctico (SparkContext, SparkSession, RDD, Transformaciones, Acciones).
-- [Adicional] ¿Qué hacer si la instalación por pip install falla?
+
 
 ### Clase 2: DataFrames y SQL en PySpark
 
